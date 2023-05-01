@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-payments/static/css/main.39a3d341.css",
-    "main.js": "/react-payments/static/js/main.d9400e3b.js",
+    "main.js": "/react-payments/static/js/main.d096f6da.js",
     "static/media/404.png": "/react-payments/static/media/404.2ec9607a10bf3d04e91e.png",
     "index.html": "/react-payments/index.html",
     "main.39a3d341.css.map": "/react-payments/static/css/main.39a3d341.css.map",
-    "main.d9400e3b.js.map": "/react-payments/static/js/main.d9400e3b.js.map"
+    "main.d096f6da.js.map": "/react-payments/static/js/main.d096f6da.js.map"
   },
   "entrypoints": [
     "static/css/main.39a3d341.css",
-    "static/js/main.d9400e3b.js"
+    "static/js/main.d096f6da.js"
   ]
 }
